@@ -21,10 +21,12 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 280px;
+    height: 250px;
 }
 #profile_picture {
     border-radius: 15px;
+    height: 230px;
+    width: 250px;
 }
 header {
     background-color: #2d8e9f;
